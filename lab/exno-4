@@ -1,0 +1,4 @@
+vi exp4.txt
+cat exp4.txt
+mkdir scan1
+ls
