@@ -1,0 +1,3 @@
+touch exp5.txt
+pwd
+wget https://example.com
